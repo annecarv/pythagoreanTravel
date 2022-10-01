@@ -4,6 +4,7 @@ var valueCatetoA = document.getElementById('catetoAInput')
 var valueCatetoB = document.getElementById('catetoBInput')
 var button = document.getElementById('calculateButton')
  //testing
+ //
 
 form.addEventListener('submit',  function calcularHipotenusa(event) {
     event.preventDefault()
