@@ -1,8 +1,9 @@
-let form = document.getElementById('dadosFormulario')
-let valueHipotenusa = document.getElementById('hipotenusaInput')
-let valueCatetoA = document.getElementById('catetoAInput')
-let valueCatetoB = document.getElementById('catetoBInput')
-let button = document.getElementById('calculateButton')
+
+var form = document.getElementById('dadosFormulario')
+var valueHipotenusa = document.getElementById('hipotenusaInput')
+var valueCatetoA = document.getElementById('catetoAInput')
+var valueCatetoB = document.getElementById('catetoBInput')
+var button = document.getElementById('calculateButton')
 
 form.addEventListener('submit',  function calcularHipotenusa(event) {
     event.preventDefault()
