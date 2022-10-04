@@ -1,18 +1,23 @@
 
-
-
-
-body {  
-    background: black;
-    margin: 6px;
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      /*margin: 0;*/
   }
+
+  body {  
+    background: black;
+    font-family: 'Roboto', sans-serif;
+    margin: 6px;
+}
   
-  .viewPanel {
+.viewPanel {
     display: flex;
     justify-content: center;
-    margin: 20px;
+    align-items: center;
+    /*margin: 20px;*/
     padding: 20px;
-    background: black;
+    background: rgba(255, 255, 255, 0.599);
     border-radius: 6px;
   }
   
@@ -40,8 +45,7 @@ body {
   }
   
   button {
-    margin-top: 60px;
-    padding: 0px;
+    /*margin: 80px;*/
     background-color: purple;
     width: 120px;
     height: 36px;
