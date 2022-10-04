@@ -1,6 +1,5 @@
 # Calculadora Teorema de Pitágoras
 
-img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
     Calculadora do Teorema de Pitágoras utilizando JavaScript, HTML5 e CSS3.
@@ -13,13 +12,13 @@ img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/mas
 </p>
 
 <p align="left">
-  💌 Obrigada! ⤵️
+  💌 Obrigada! 
 </p>
 
 # Para entrar em contato comigo:
 
 <p align="left">
-  <a href="#" alt="Linkedin">
-  <img src="https://www.linkedin.com/in/annecarv/" /></a>
+  <a href="https://www.linkedin.com/in/annecarv/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
 </p>  
